@@ -1,0 +1,23 @@
+[
+    {
+        "_id":111,
+      "catagory_id": "01",
+      "catagory_name": "Computer Science",
+      "image": "https://m.media-amazon.com/images/I/7191HOxgB4L.jpg",
+      "title":"Didcreate Math"
+    },
+    {
+        "_id":112,
+      "catagory_id": "01",
+      "catagory_name": "Computer Science",
+      "image": "https://m.media-amazon.com/images/I/5161-7Fgd8L.jpg",
+      "title":"Computer Science Book"
+    },
+    {
+        "_id":112,
+      "catagory_id": "01",
+      "catagory_name": "Computer Science",
+      "image": "https://m.media-amazon.com/images/I/5161-7Fgd8L.jpg",
+      "title":"Computer Science Book"
+    }
+]
