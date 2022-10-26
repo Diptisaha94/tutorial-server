@@ -33,5 +33,36 @@
   "catagory_name": "Information Technology",
   "image": "https://m.media-amazon.com/images/I/51tUyT8b7IL.jpg",
   "title":"Computer & Technology Basics: What you need to know about Hardware, Software, Internet, Cloud Computing, Networks, Computer Security, Databases, ... Intelligence, File Management and Programming"
+},
+{
+  "_id":"116",
+"catagory_id": "02",
+"catagory_name": "Information Technology",
+"image": "https://m.media-amazon.com/images/I/51SWAq5gIfL.jpg",
+"title":"Cyberlaw: The Law of the Internet and Information Technology"
+},
+{
+  "_id":"117",
+"catagory_id": "03",
+"catagory_name": "Programing Language",
+"image": "https://images.unsplash.com/photo-1610484826967-09c5720778c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+"title":"Get Started React JS Tutorial For Beginners",
+"discripetion":"React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”. We will build a small game during this tutorial. You might be tempted to skip it because you are not building games — but give it a chance. The techniques you all learn in the tutorial are fundamental to building any React app, and mastering it will give you a deep understanding of React.We will assume that you have some familiarity with HTML and JavaScript, but you should be able to follow along even if you are coming from a different programming language. We will also assume that you are familiar with programming concepts like functions, objects, arrays, and to a lesser extent, classes.React components can have state by setting this.state in their constructors. this.state should be considered as private to a React component that its defined in. Lets store the current value of the Square in this.state, and change it when the Square is clicked."
+},
+{
+  "_id":"118",
+"catagory_id": "03",
+"catagory_name": "Programing Language",
+"image": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/07/JAVA-Tutorials.png",
+"title":"Java Tutorial",
+"discripetion":"Java is popular high-level, class-based object oriented programming language originally developed by Sun Microsystems and released in 1995. Currently Java is owned by Oracle and more than 3 billion devices run Java. Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. Java is used to develop Mobile apps, Web apps, Desktop apps, Games and much more.With Java's multithreaded feature it is possible to write programs that can perform many tasks simultaneously. This design feature allows the developers to construct interactive applications that can run smoothly.Java is considered to be more dynamic than C or C++ since it is designed to adapt to an evolving environment. Java programs can carry extensive amount of run-time information that can be used to verify and resolve accesses to objects on run-time.Although it is a beginners tutorial, we assume that the readers have a reasonable exposure to any programming environment and knowledge of basic concepts such as variables, commands, syntax, etc."
+},
+{
+  "_id":"119",
+"catagory_id": "03",
+"catagory_name": "Programing Language",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+"title":"Javascript Tutorial",
+"discripetion":"Javascript is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning Javascript.Javascript is the most popular programming language in the world and that makes it a programmer’s great choice. Once you learnt Javascript, it helps you developing great front-end as well as back-end softwares using different Javascript based frameworks like jQuery, Node.JS etc.JavaScript usage has now extended to mobile app development, desktop app development, and game development. This opens many opportunities for you as Javascript Programmer.Javascript is everywhere, it comes installed on every modern web browser and so to learn Javascript you really do not need any special environment setup. For example Chrome, Mozilla Firefox , Safari and every browser you know as of today, supports Javascript.Javascript helps you create really beautiful and crazy fast websites. You can develop your website with a console like look and feel and give your users the best Graphical User Experience."
 }
 ]
