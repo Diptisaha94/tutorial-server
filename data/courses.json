@@ -4,42 +4,54 @@
       "catagory_id": "01",
       "catagory_name": "Computer Science",
       "image": "https://m.media-amazon.com/images/I/7191HOxgB4L.jpg",
-      "title":"Didcreate Math"
+      "title":"Discreate Math",
+      "head":"Discreate Math",
+      "discripetion":"Discrete mathematics is a branch of mathematics concerned with the study of objects that can be represented finitely (or countably). It encompasses a wide array of topics that can be used to answer many tangible questions that arise in everyday life:Counting: How many different outfits can you make from the clothes in your closet?At the most fundamental level, all of a computers data is represented as bits (zeros and ones). Computers make calculations by modifying these bits in accordance with the laws of Boolean algebra, which form the basis of all digital circuits (which are represented as graphs). Low-level programming languages rely directly on logical operators such as and, not, and or. Software developers using high-level languages will often work to optimize their code by minimizing the number of low-level operations, and may even operate directly on bits. Programmers also use Boolean logic to control program flow -- that is, which instructions are executed under certain conditions.When programming, it is important to be confident that your code will achieve the desired results. Programs can be described precisely with mathematics, and the tools of propositional logic can be used to reason about their correctness. This skill is critical to the design and analysis of algorithms, a core area of computer science. Iterative programming and functional programming are two major paradigms which rely upon the principle of mathematical induction to verify their loops (for and while) and recursive function calls, respectively. Logic is the language used for most formal specification languages, and is fundamental for understanding much of the literature in verification and in programming language foundations and design. "
     },
     {
         "_id":"112",
       "catagory_id": "01",
       "catagory_name": "Computer Science",
       "image": "https://m.media-amazon.com/images/I/5161-7Fgd8L.jpg",
-      "title":"Computer Science Book"
+      "title":"Computer Science",
+      "head":"Computer Science",
+      "discripetion":"Computer science is the study of computation, automation, and information.[1] Computer science spans theoretical disciplines (such as algorithms, theory of computation, information theory, and automation) to practical disciplines (including the design and implementation of hardware and software).[2][3][4] Computer science is generally considered an area of academic research and distinct from computer programming.Algorithms and data structures are central to computer science.[6] The theory of computation concerns abstract models of computation and general classes of problems that can be solved using them. The fields of cryptography and computer security involve studying the means for secure communication and for preventing security vulnerabilities. Computer graphics and computational geometry address the generation of images. Programming language theory considers different ways to describe computational processes, and database theory concerns the management of repositories of data. Human computer interaction investigates the interfaces through which humans and computers interact, and software engineering focuses on the design and principles behind developing software. Areas such as operating systems, networks and embedded systems investigate the principles and design behind complex systems. Computer architecture describes the construction of computer components and computer-operated equipment. Artificial intelligence and machine learning aim to synthesize goal-orientated processes such as problem-solving, decision-making, environmental adaptation, planning and learning found in humans and animals. Within artificial intelligence, computer vision aims to understand and process image and video data, while natural language processing aims to understand and process textual and linguistic data.The fundamental concern of computer science is determining what can and cannot be automated.[7][8][9][10][11] The Turing Award is generally recognized as the highest distinction in computer science.[12][13]"
     },
     {
         "_id":"113",
       "catagory_id": "01",
       "catagory_name": "Computer Science",
       "image": "https://m.media-amazon.com/images/I/81yvVmN1BLL.jpg",
-      "title":"Data Structures and Algorithms"
+      "head":"Data Structures and Algorithms",
+      "title":"Data Structures and Algorithms",
+      "discripetion":"A data structure is not only used for organizing the data. It is also used for processing, retrieving, and storing data. There are different basic and advanced types of data structures that are used in almost every program or software system that has been developed. So we must have good knowledge about data structures. Linear data structure: Data structure in which data elements are arranged sequentially or linearly, where each element is attached to its previous and next adjacent elements, is called a linear data structure. Static data structure: Static data structure has a fixed memory size. It is easier to access the elements in a static data structure. An example of this data structure is an array.In dynamic data structure, the size is not fixed. It can be randomly updated during the runtime which may be considered efficient concerning the memory (space) complexity of the code. Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. In a non-linear data structure, we cannot traverse all the elements in a single run only. Examples of non-linear data structures are trees and graphs."
     },
     {
       "_id":"114",
     "catagory_id": "02",
     "catagory_name": "Information Technology",
+    "head":"IT Support",
     "image": "https://m.media-amazon.com/images/I/61BUdoM+d8L.jpg",
-    "title":"The IT Support Handbook: A How-To Guide to Providing Effective Help and Support to IT Users"
+    "title":"The IT Support Handbook: A How-To Guide to Providing Effective Help and Support to IT Users",
+    "discripetion":"Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data. Typically, IT is used in the context of business operations, as opposed to technology used for personal or entertainment purposes. The commercial use of IT encompasses both computer technology and telecommunications.Help desk staff specialize in answering questions, gathering information and directing troubleshooting efforts for hardware and software. IT support often includes IT asset and change management, helping admins with procurement, handling backup and recovery of data and applications, monitoring and analyzing logs and other performance monitoring tools and following established support workflows and processes.Administrators handle the day-to-day deployment, operation and monitoring of an IT environment, including systems, networks and applications. Admins often perform a range of other duties such as software upgrades, user training, software license management, procurement, security, data management and observing adherence to business process and compliance requirements."
   },
   {
     "_id":"115",
   "catagory_id": "02",
   "catagory_name": "Information Technology",
   "image": "https://m.media-amazon.com/images/I/51tUyT8b7IL.jpg",
-  "title":"Computer & Technology Basics: What you need to know about Hardware, Software, Internet, Cloud Computing, Networks, Computer Security, Databases, ... Intelligence, File Management and Programming"
+  "head":"Computer & Technology Basics",
+  "title":"Computer & Technology Basics: What you need to know about Hardware, Software, Internet, Cloud Computing, Networks, Computer Security, Databases, ... Intelligence, File Management and Programming",
+  "discripetion":"Computer technology is leading to more accurate sizing and rating methods for process equipment. Heat exchangers are designed with high-precision prediction methods and complex numerical techniques to account for the local flow and temperature conditions. Fouling mitigation is just changing from an art to a science-based technology. The real benefits of sophisticated design codes will not be achieved without reliable fouling prediction methods and mitigation techniques that can be incorporated into the design phase. Recent developments in the computer technology provide an opportunity to productively use fouling information that is scattered in the literature, industry log books, and in reports. A long-term goal for the industry is to develop a knowledge-based system for designing and operating heat exchangers with a minimum impact of water fouling. The major challenges to develop the knowledge-based system are as follows:The fouling data and analyses reported in the literature are often inadequately utilized. To effectively utilize these data, compilation and organization of fouling information are major tasks and challenges for research organizations and industries. This task is more important for the fouling-mitigation technology as compared to other engineering areas. It is hard to imagine that there could be a single correlation with a given set of parameters that can be used to predict the rate of fouling or determine the threshold fouling conditions. One has to rely on the best possible approach to mitigate fouling for a given set of conditions. In the absence of such information, either mitigation methods are overutilized, with high chemical costs, or underutilized, with high maintenance and production costs. Perrakis et al. [54] introduced an approach for compiling the fouling data in the literature. A major cooperative effort is required to carry out such a major challenge for compiling and organizing data. The fouling data and analyses must be accompanied with physical and chemical parameters without which the data have little value."
 },
 {
   "_id":"116",
 "catagory_id": "02",
 "catagory_name": "Information Technology",
 "image": "https://m.media-amazon.com/images/I/51SWAq5gIfL.jpg",
-"title":"Cyberlaw: The Law of the Internet and Information Technology"
+"title":"Cyberlaw: The Law of the Internet and Information Technology",
+"head":"Cyberlaw",
+"discripetion":"Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users via ransomware; or interrupting normal business processes.Implementing effective cybersecurity measures is particularly challenging today because there are more devices than people, and attackers are becoming more innovative.A successful cybersecurity approach has multiple layers of protection spread across the computers, networks, programs, or data that one intends to keep safe. In an organization, the people, processes, and technology must all complement one another to create an effective defense from cyber attacks. A unified threat management system can automate integrations across select Cisco Security products and accelerate key security operations functions: detection, investigation, and remediation.Technology is essential to giving organizations and individuals the computer security tools needed to protect themselves from cyber attacks. Three main entities must be protected: endpoint devices like computers, smart devices, and routers; networks; and the cloud. Common technology used to protect these entities include next-generation firewalls, DNS filtering, malware protection, antivirus software, and email security solutions."
 },
 {
   "_id":"117",
@@ -47,6 +59,7 @@
 "catagory_name": "Programing Language",
 "image": "https://images.unsplash.com/photo-1610484826967-09c5720778c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
 "title":"Get Started React JS Tutorial For Beginners",
+"head":"React js",
 "discripetion":"React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”. We will build a small game during this tutorial. You might be tempted to skip it because you are not building games — but give it a chance. The techniques you all learn in the tutorial are fundamental to building any React app, and mastering it will give you a deep understanding of React.We will assume that you have some familiarity with HTML and JavaScript, but you should be able to follow along even if you are coming from a different programming language. We will also assume that you are familiar with programming concepts like functions, objects, arrays, and to a lesser extent, classes.React components can have state by setting this.state in their constructors. this.state should be considered as private to a React component that its defined in. Lets store the current value of the Square in this.state, and change it when the Square is clicked."
 },
 {
@@ -55,6 +68,7 @@
 "catagory_name": "Programing Language",
 "image": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/07/JAVA-Tutorials.png",
 "title":"Java Tutorial",
+"head":"Java Tutorial",
 "discripetion":"Java is popular high-level, class-based object oriented programming language originally developed by Sun Microsystems and released in 1995. Currently Java is owned by Oracle and more than 3 billion devices run Java. Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. Java is used to develop Mobile apps, Web apps, Desktop apps, Games and much more.With Java's multithreaded feature it is possible to write programs that can perform many tasks simultaneously. This design feature allows the developers to construct interactive applications that can run smoothly.Java is considered to be more dynamic than C or C++ since it is designed to adapt to an evolving environment. Java programs can carry extensive amount of run-time information that can be used to verify and resolve accesses to objects on run-time.Although it is a beginners tutorial, we assume that the readers have a reasonable exposure to any programming environment and knowledge of basic concepts such as variables, commands, syntax, etc."
 },
 {
@@ -63,6 +77,70 @@
 "catagory_name": "Programing Language",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
 "title":"Javascript Tutorial",
-"discripetion":"Javascript is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning Javascript.Javascript is the most popular programming language in the world and that makes it a programmer’s great choice. Once you learnt Javascript, it helps you developing great front-end as well as back-end softwares using different Javascript based frameworks like jQuery, Node.JS etc.JavaScript usage has now extended to mobile app development, desktop app development, and game development. This opens many opportunities for you as Javascript Programmer.Javascript is everywhere, it comes installed on every modern web browser and so to learn Javascript you really do not need any special environment setup. For example Chrome, Mozilla Firefox , Safari and every browser you know as of today, supports Javascript.Javascript helps you create really beautiful and crazy fast websites. You can develop your website with a console like look and feel and give your users the best Graphical User Experience."
+"head":"Javascript Tutorial",
+"discripetion":"Javascript is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning Javascript.Javascript is the most popular programming language in the world and that makes it a programmers great choice. Once you learnt Javascript, it helps you developing great front-end as well as back-end softwares using different Javascript based frameworks like jQuery, Node.JS etc.JavaScript usage has now extended to mobile app development, desktop app development, and game development. This opens many opportunities for you as Javascript Programmer.Javascript is everywhere, it comes installed on every modern web browser and so to learn Javascript you really do not need any special environment setup. For example Chrome, Mozilla Firefox , Safari and every browser you know as of today, supports Javascript.Javascript helps you create really beautiful and crazy fast websites. You can develop your website with a console like look and feel and give your users the best Graphical User Experience."
+},
+{
+  "_id":"120",
+"catagory_id": "04",
+"catagory_name": "Web Technoloy",
+"image": "https://i0.wp.com/bizanosa.com/wp-content/uploads/2017/01/19-full-html-css-tutorial-beginners.jpg?fit=1200%2C675&ssl=1",
+"title":"GET TECHS HTML5 AND CSS JS TUTORIAL",
+"head":"HTML5 AND CSS",
+"discripetion":"HTML stands for HyperText Markup Language. HTML is the basic building block of World Wide Web.Hypertext is text displayed on a computer or other electronic device with references to other text that the user can immediately access, usually by a mouse click or key press.Markup languages use sets of markup tags to characterize text elements within a document, which gives instructions to the web browsers on how the document should appear.HTML was originally developed by Tim Berners-Lee in 1990. He is also known as the father of the web. In 1996, the World Wide Web Consortium (W3C) became the authority to maintain the HTML specifications. HTML also became an international standard (ISO) in 2000. HTML5 is the latest version of HTML. HTML5 provides a faster and more robust approach to web development.CSS stands for Cascading Style Sheets. CSS is a standard style sheet language used for describing the presentation (i.e. the layout and formatting) of the web pages.To solve this problem CSS was introduced in 1996 by the World Wide Web Consortium (W3C), which also maintains its standard. CSS was designed to enable the separation of presentation and content. Now web designers can move the formatting information of the web pages to a separate style sheet which results in considerably simpler HTML markup, and better maintainability."
+},
+{
+  "_id":"121",
+"catagory_id": "04",
+"catagory_name": "Web Technoloy",
+"image": "https://i0.wp.com/www.intertech.com/wp-content/uploads/2019/01/Angular-Tutorial-Series-1-1.png?fit=1080%2C675&ssl=1",
+"title":"GET STARTED ANGULAR JS TUTORIAL FOR BEGINNERS",
+"head":"ANGULAR JS",
+"discripetion":"Angular 8 is an open source, TypeScript based frontend web application framework. Angular 8 has been released by Google’s Angular community. This tutorial starts with the architecture of Angular 8,setup simple project, data binding, then walks through forms, templates, routing and explains about Angular 8 new features. Finally, conclude with step by step working example.This tutorial is prepared for professionals who are aspiring to make a career in the field of Web application developer. This tutorial is intended to make you comfortable in getting started with the Angular8 concepts with examples.Before proceeding with the various types of concepts given in this tutorial, we assume that the readers have the basic knowledge on HTML, CSS and OOPS concepts. In addition to this, it will be very helpful, if the readers have a sound knowledge on TypeScript and JavaScript."
+},
+{
+  "_id":"122",
+"catagory_id": "04",
+"catagory_name": "Web Technoloy",
+"image": "https://www.tutorialsteacher.com/Content/images/home/nodejs.jpg",
+"head":"Node.js",
+"title":"Learn Node.js",
+"discripetion":"Node.js is an open-source server side runtime environment built on Chrome's V8 JavaScript engine. It provides an event driven, non-blocking (asynchronous) I/O and cross-platform runtime environment for building highly scalable server-side applications using JavaScript.Node.js can be used to build different types of applications such as command line application, web application, real-time chat application, REST API server etc. However, it is mainly used to build network programs like web servers, similar to PHP, Java, or ASP.NET.Lightweight framework that includes bare minimum modules. Other modules can be included as per the need of an application.JavaScript in Node.js supports loose typing like the browser's JavaScript. Use var keyword to declare a variable of any type.Each Node.js script runs in a process. It includes process object to get all the information about the current process of Node.js application."
+},
+{
+  "_id":"123",
+"catagory_id": "05",
+"catagory_name": "Cloud Computing",
+"image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_aws.jpg",
+"head":"AWS",
+"title":"Cyberlaw: The Law of the Internet and Information Technology",
+"discripetion":"Organizations of every type, size, and industry are using the cloud for a wide variety of use cases, such as data backup, disaster recovery, email, virtual desktops, software development and testing, big data analytics, and customer-facing web applications. For example, healthcare companies are using the cloud to develop more personalized treatments for patients. Financial services companies are using the cloud to power real-time fraud detection and prevention. And video game makers are using the cloud to deliver online games to millions of players around the world.The cloud gives you easy access to a broad range of technologies so that you can innovate faster and build nearly anything that you can imagine. You can quickly spin up resources as you need them from infrastructure services, such as compute, storage, and databases, to Internet of Things, machine learning, data lakes and analytics, and much more.You can deploy technology services in a matter of minutes, and get from idea to implementation several orders of magnitude faster than before. This gives you the freedom to experiment, test new ideas to differentiate customer experiences, and transform your business."
+},
+{
+  "_id":"124",
+"catagory_id": "05",
+"catagory_name": "Cloud Computing",
+"image": "https://www.scnsoft.com/blog-pictures/itsm/how-can-a-system-administrator-turn-into-a-devops-engineer.png",
+"head":"Devops Engineer",
+"title":"Devops Engineer",
+"discripetion":"A DevOps engineer is an IT generalist who should have a wide-ranging knowledge of both development and operations, including coding, infrastructure management, system administration, and DevOps toolchains. DevOps engineers should also possess interpersonal skills since they work across company silos to create a more collaborative environment. Release engineering includes the work required to build and deploy application code. The exact tools and processes vary widely depending on many variables, such as what language the code is written in, how much of the pipeline has been automated, and whether the production infrastructure is on-premise or in the cloud. Release engineering might entail selecting, provisioning, and maintaining CI/CD tooling or writing and maintaining bespoke build/deploy scripts.Infrastructure provisioning and system administration include deploying and maintaining the servers, storage, and networking resources required to host applications. For organizations with on-premise resources this might include managing physical servers, storage devices, switches, and virtualization software in a data center. For a hybrid or entirely cloud-based organization this will usually include provisioning and managing virtual instances of the same components. "
+},
+{
+  "_id":"125",
+"catagory_id": "06",
+"catagory_name": "Design",
+"image": "https://img.freepik.com/free-vector/flat-design-ui-ux-landing-page-template_23-2149048692.jpg?w=2000",
+"title":"UI UX DESIGNER",
+"head":"UI UX DESIGNER",
+"discripetion":"User interface (UI) design refers to the aesthetic elements by which people interact with a product, such as buttons, icons, menu bars, typography, colors, and more. User experience (UX) design refers to the experience a user has when interacting with a product. UI design can be a very good career, providing ample opportunities and a competitive salary. There are, in fact, quite a few benefits to a career as a UI Designer. If you have a fine eye for visuals and a strong creative impulse, UI design can be a great way to scratch that itch.For good UI design, you should take these characteristics into consideration:The design should be focused on helping users complete tasks quickly with minimum effort. Completing tasks should be a seamless experience.UX (User Experience) design deals with how users interact with the system. Logical navigation and how smooth and intuitive the experience is all fall under UX design. In short, this type of design helps users have a positive experience.Information Architecture involves the organization of information and content that users need to do their tasks. This requires a UX designer to understand the relationship between different sets of content and present them in the most understandable way possible."
+},
+{
+  "_id":"126",
+"catagory_id": "06",
+"catagory_name": "Design",
+"image": "https://mediablog.cdnpk.net/sites/9/2021/12/An-Introduction-To-Graphic-Design-Part-1.jpg",
+"title":"Graphics Design",
+"head":"Graphics Design",
+"discripetion":"Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal. This four-course sequence exposes students to the fundamental skills required to make sophisticated graphic design: process, historical context, and communication through image-making and typography. The sequence is completed by a capstone project that applies the skills of each course and peer feedback in a finished branding project suitable for a professional portfolio.The goal of this specialization is to equip learners with a set of transferable formal and conceptual tools for “making and communicating” in the field of graphic design. This core skill set will equip learners for formal studies in graphic design, and a starting point for further work in interface design, motion graphics, and editorial design.Every Specialization includes a hands-on project. You'll need to successfully finish the project(s) to complete the Specialization and earn your certificate. If the Specialization includes a separate course for the hands-on project, you'll need to finish each of the other courses before you can start it.When you finish every course and complete the hands-on project, you'll earn a Certificate that you can share with prospective employers and your professional network."
 }
 ]
