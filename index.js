@@ -21,6 +21,11 @@ app.get('/courses/:id', (req, res) => {
     const catagory_course = courses.find(c => c._id === id); 
     res.send(catagory_course);
  });
+ app.get('/cheakout/:id', (req, res) => {
+    const id= req.params.id;
+    const catagory_course = courses.find(c => c._id === id); 
+    res.send(catagory_course);
+ });
 app.listen(port, () => {
     console.log('Dragon News Server running on port', port);
 });
